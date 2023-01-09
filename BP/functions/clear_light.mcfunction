@@ -1,0 +1,15 @@
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 15
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 14
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 13
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 12
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 11
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 10
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 9
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 8
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 7
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 6
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 5
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 4
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 3
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 2
+fill ~10  ~10 ~10 ~-10 ~-10 ~-10 air 0 replace light_block 1

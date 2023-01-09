@@ -1,0 +1,1 @@
+fill ~ ~1 ~ ~ ~1 ~ light_block 9 replace air 0
