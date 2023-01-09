@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"KeshigomuK"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Holdable Lights",
+		"description": "Holding items that glow will light up the area around you.",
+		"min_engine_version": [
+			1,
+			19,
+			51
+		],
+		"uuid": "31d3bd15-ea64-4f10-9283-a745fe8f566b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "7400b791-7b7b-4ade-ae32-a5903be28185",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

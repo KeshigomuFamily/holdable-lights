@@ -1,0 +1,44 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Holding_Light",
+	"namespace": "keshigomuk",
+	"authors": [
+		"KeshigomuK"
+	],
+	"targetVersion": "1.19.51",
+	"description": "Holding items that glow will light up the area around you.",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": false,
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Holdable Lights"
+				}
+			]
+		]
+	}
+}

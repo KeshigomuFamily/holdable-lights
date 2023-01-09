@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"KeshigomuK"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Holdable Light",
+		"description": "",
+		"min_engine_version": [
+			1,
+			19,
+			51
+		],
+		"uuid": "c563b469-3539-4b7d-94e4-ab46c1474a67",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "1eb23f90-f286-4e43-83cf-cae50210e52f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
